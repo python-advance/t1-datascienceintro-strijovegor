@@ -1,3 +1,7 @@
+# Лабараторная работа №1
+
+[ссылка на файл](https://github.com/python-advance/t1-datascienceintro-strijovegor/blob/master/main.py)
+
 ## Task1
 
 train = read_csv("train.csv")
